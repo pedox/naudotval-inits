@@ -25,6 +25,7 @@ Things need to be installed
 
 - NodeJS https://nodejs.org/en/download/package-manager/#macos
 - Vscode https://code.visualstudio.com/download
+- FiraCode fonts https://github.com/tonsky/FiraCode
 
 ### npm
 
