@@ -19,13 +19,27 @@ Mencoba untuk mengorganisir yanga bisa di organisir
 - docker
   - ...
 
-## MacOS & Ubuntu Initialize
+## Global Initialize
 
 Things need to be installed
 
-- NodeJS https://nodejs.org/en/download/package-manager/#macos
+- NodeJS https://nodejs.org/en/download
 - Vscode https://code.visualstudio.com/download
 - FiraCode fonts https://github.com/tonsky/FiraCode
+
+## MacOS Initialize
+
+- iterm2 https://iterm2.com/
+
+## MacOS && Linux Initialize
+
+- ohmyzsh https://github.com/ohmyzsh/ohmyzsh
+
+## Windows Initialize
+
+- hotel https://github.com/typicode/hotel
+- php https://windows.php.net/download
+- Hyper https://hyper.is/
 
 ### npm
 
@@ -36,6 +50,15 @@ npm config set prefix '~/npm-global
 nano ~/.profile
 
   export PATH=~/npm-global/bin:$PATH
+```
+
+### php
+
+```
+For Windows
+  Place php to C:\php
+  Add PATH environment C:\php
+  set php.ini
 ```
 
 ### vscode
