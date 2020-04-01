@@ -35,6 +35,12 @@ nano ~/.profile
   export PATH=~/npm-global/bin:$PATH
 ```
 
+## yarn
+
+```
+npm i -g yarn
+```
+
 ### php
 
 ```
