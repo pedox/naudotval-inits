@@ -2,23 +2,6 @@
 
 Mencoba untuk mengorganisir yanga bisa di organisir
 
-## Global configurations
-
-- Javasript
-  - .eslint
-  - jsconfig.json
-  - .npmrc
-- tscript
-  - ...
-- go
-  - ...
-- php
-  - ...
-- ohmyzsh
-  - .zshrc
-- docker
-  - ...
-
 ## Global Initialize
 
 Things need to be installed
@@ -83,7 +66,7 @@ code --install-extension jawandarajbir.react-vscode-extension-pack
 code --install-extension joelday.docthis
 code --install-extension kleber-swf.unity-code-snippets
 code --install-extension mohsen1.prettify-json
-code --install-extension ms-azuretools.vscode-docker
+code --install-extension ms-dotnettools.csharp
 code --install-extension ms-python.python
 code --install-extension ms-vscode-remote.remote-containers
 code --install-extension ms-vscode-remote.remote-ssh
@@ -97,6 +80,8 @@ code --install-extension richie5um2.vscode-sort-json
 code --install-extension ritwickdey.LiveServer
 code --install-extension Tobiah.unity-tools
 code --install-extension tomoki1207.pdf
+code --install-extension vscodevim.vim
+code --install-extension WakaTime.vscode-wakatime
 ```
 
 ### other
