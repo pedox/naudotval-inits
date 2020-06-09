@@ -29,16 +29,18 @@ Things need to be installed
 set global path prevent permission
 
 ```
-npm config set prefix '~/npm-global
-nano ~/.profile
+mkdir ~/.npm-global
+npm config set prefix '~/.npm-global'
+nano ~/.bashrc
 
-  export PATH=~/npm-global/bin:$PATH
+  export PATH=~/.npm-global/bin:$PATH
 ```
 
-## yarn
+## yarn && windows-build-tools (Windows)
 
 ```
 npm i -g yarn
+yarn global add windows-build-tools --verbose
 ```
 
 ### php
