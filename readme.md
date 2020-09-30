@@ -8,7 +8,7 @@ Things need to be installed
 
 - NodeJS https://nodejs.org/en/download
 - Vscode https://code.visualstudio.com/download
-- FiraCode fonts https://github.com/tonsky/FiraCode
+- FiraCode fonts https://github.com/tonsky/FiraCode/wiki/Installing
 
 ## MacOS Initialize
 
